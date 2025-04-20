@@ -24,7 +24,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://medium.com/@swabrakaterega/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
+            <a href="https://medium.com/@swabranamayanja.dev/"><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg"/></a>
         </td>
         <td>
             <a href="https://www.gingastealth.com/">🌐</a>
