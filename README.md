@@ -2,8 +2,8 @@
 
 ### Software Developer | Transactional Banking lead | Tech Ethusiast | Mentor
 
-- 🔭 I’m currently working on: __Product Management and Development for Enterprises __
-- 🔭 I’m currently working on: __Global Products and Cash Management__
+- 🔭 I’m currently working on: __Products digitising financial ecosystems, resilient payment products and designing customer-first digital experiences__
+- 🔭 I’m currently working on: __Global Products management, strategic change management and embedded finance APIs__
 - 🔭 I’m currently working on: __Ginga Stealth Solutions__
 - 🌱 I’m currently learning: __AWS, Solidity Programming, DevSecOps__
 - 💬 Ask me about __DevOps, SRE, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Software Dev...__
@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on __Python Data Science, Solidity Programming, STEM Programme__
 - 🤔 I’m looking for help with __AWS, Solidity Programming, DevSecOps__
 - 🧧 Chinnese name: __色瓦扒蜡__
-- ⚡ Fun fact: __Try Python, It won't byte😄__  
+- ⚡ Fun fact: __Try Python, It won't byte 😄__  
 
 <br/>
 
