@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Swabra Namayanja 
 
-### Software Developer | Transactional Banking lead | Tech Ethusiast | Mentor
+### Software Engineer | Founder | Tech Ethusiast | Mentor
 
 - 🔭 I’m currently working on: __Products digitising financial ecosystems, resilient payment products and designing customer-first digital experiences__
 - 🔭 I’m currently working on: __Global Products management, strategic change management and embedded finance APIs__
